@@ -1,0 +1,14 @@
+E:\Repositories\iikoPlugin\iikoPlugin\bin\Debug\net7.0\iikoPlugin.deps.json
+E:\Repositories\iikoPlugin\iikoPlugin\bin\Debug\net7.0\iikoPlugin.runtimeconfig.json
+E:\Repositories\iikoPlugin\iikoPlugin\bin\Debug\net7.0\iikoPlugin.dll
+E:\Repositories\iikoPlugin\iikoPlugin\bin\Debug\net7.0\iikoPlugin.pdb
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.csproj.AssemblyReference.cache
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.AssemblyInfoInputs.cache
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.AssemblyInfo.cs
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.csproj.CoreCompileInputs.cache
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.dll
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\refint\iikoPlugin.dll
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.pdb
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\iikoPlugin.genruntimeconfig.cache
+E:\Repositories\iikoPlugin\iikoPlugin\obj\Debug\net7.0\ref\iikoPlugin.dll
